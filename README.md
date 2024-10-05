@@ -30,8 +30,8 @@ Script for aliases/shell functions: [https://github.com/unethicalnoob/aliases](h
 ``` 
 git clone https://github.com/varmakollu/BBHTV2.git
 cd BBHTV2
-chmod +x BBHTV2.sh
-./BBHTV2.sh
+chmod +x bbhtv2.sh
+./bbhtv2.sh
 ```
 ### One Liner Install
 ```
